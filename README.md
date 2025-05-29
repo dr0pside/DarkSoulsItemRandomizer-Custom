@@ -1,5 +1,8 @@
 # Dark Souls Item Randomizer
 
+- Custom version that replaces online use items with consumables (thank you da66en) and adds covenant items that can be used regardless of your allegiance to the randomization table (Chaos Storm, Darkmoon Talisman, Darksword & Darkwraith Set, Great Lightning Spear, Dragon Torso Stone)
+- Also added Chaos Fire Whip back into the table, no idea why it was hardcoded to its original location
+   
 Instructions:
 
 * (PTDE Only) Unpack your Dark Souls archive files using UnpackDarkSoulsForModding, which can be found [here](https://github.com/HotPocketRemix/UnpackDarkSoulsForModding).
