@@ -93,6 +93,7 @@ class RandomizerOptions:
          self.start_items_diff = start_items_diff
          self.game_version = game_version
          self.randomize_npc_armor = randomize_npc_armor
+         self.no_online_items = True
          
     def bool_option_to_string(self, b):
         if b:
