@@ -1,10 +1,9 @@
 # Dark Souls Item Randomizer
 
 - Custom version that:
-   - Replaces online use items with consumables (thank you da66en)
+   - Replaces online use items with consumables (thanks go to da66en as it is his implementation from his fork)
    - Adds covenant items that can be used regardless of your allegiance to the randomization table (Chaos Storm, Darkmoon Talisman, Darksword & Darkwraith Set, Great Lightning Spear, Dragon Torso Stone)
    - Adds Chaos Fire Whip to the randomization table (it was coded to be always in its chest in Lost Izalith, no idea why)
-   - 
    
 Instructions:
 
