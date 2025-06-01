@@ -147,7 +147,7 @@ LOCATIONS = {
  1300: Location(LOC_DIF.HARD, AREA.BLIGHTTOWN, 9, is_transient = True, linked_locations = [6170]),
  1310: Location(LOC_DIF.HARD, AREA.QUELAAGS_DOMAIN, 9, is_transient = True),
  1320: Location(LOC_DIF.LEAVE_ALONE, AREA.QUELAAGS_DOMAIN, 9, is_transient = True),
- 1330: Location(LOC_DIF.LEAVE_ALONE, AREA.QUELAAGS_DOMAIN, 9, is_transient = True),
+ 1330: Location(LOC_DIF.EASY, AREA.QUELAAGS_DOMAIN, 9, is_transient = True),
  1340: Location(LOC_DIF.IGNORE, AREA.NONE, 1),
  1350: Location(LOC_DIF.MEDIUM, AREA.ANOR_LONDO, 9, is_transient = True),
  1360: Location(LOC_DIF.HARD, AREA.DARKMOON_TOMB, 9, is_transient = True),
