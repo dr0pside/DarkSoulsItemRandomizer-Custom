@@ -65,7 +65,7 @@ ITEMS = {
  0: ItemLotPart(ITEM_DIF.IGNORE, 9, [ItemLotEntry(ITEM_TYPE.WEAPON, 100000, luck = False), ItemLotEntry(ITEM_TYPE.ARMOR, 10000, count = 2, rate = 50, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 240, count = 99, luck = False), ItemLotEntry(ITEM_TYPE.WEAPON, 101000, rate = 50, luck = False), ItemLotEntry(ITEM_TYPE.ARMOR, 11000, count = 2, rate = 40, luck = False)]), 
  1: ItemLotPart(ITEM_DIF.IGNORE, 0, [ItemLotEntry(ITEM_TYPE.ITEM, 240, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 240, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 2001, rate = 300, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 240, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 240, luck = False)]), 
  2: ItemLotPart(ITEM_DIF.IGNORE, 2, [ItemLotEntry(ITEM_TYPE.NONE, 0, count = 0, rate = 375), ItemLotEntry(ITEM_TYPE.ITEM, 1010, count = 2, rate = 20, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 1010, rate = 30, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 1013, count = 2, rate = 20, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 1013, rate = 30, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 1023, rate = 50, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 1001, count = 3, rate = 50, luck = False), ItemLotEntry(ITEM_TYPE.ITEM, 1001, rate = 50, luck = False)]), 
- 1000: ItemLotPart(ITEM_DIF.NOT_IN_POOL, 2, [ItemLotEntry(ITEM_TYPE.ITEM, 100)], flag = 50000000, needs_flag = True), 
+ 1000: ItemLotPart(ITEM_DIF.EASY, 2, [ItemLotEntry(ITEM_TYPE.ITEM, 100)], flag = 50000000, needs_flag = True), 
  1010: ItemLotPart(ITEM_DIF.MEDIUM, 2, [ItemLotEntry(ITEM_TYPE.RING, 111)], flag = 50000010), 
  1020: ItemLotPart(ITEM_DIF.IGNORE, 2, [ItemLotEntry(ITEM_TYPE.WEAPON, 1475000)], flag = 50000020), 
  1030: ItemLotPart(ITEM_DIF.IGNORE, 2, [ItemLotEntry(ITEM_TYPE.ITEM, 274)], flag = 50000030), 
@@ -2008,7 +2008,7 @@ ONLINE_USE_ITEMS = [100,   #White Sign Soapstone
  103,   #Black Separation Crystal
  106,   #Orange Guidance Soapstone
  108,   #Book of the Guilty
- 109,   #Eye of Death
+ #109,  #Eye of Death <- needed to join Nito covenant
  111,   #Cracked Red Eye Orb
  112,   #Servant Roster
  113,   #Blue Eye Orb
@@ -2016,7 +2016,12 @@ ONLINE_USE_ITEMS = [100,   #White Sign Soapstone
  118,   #Purple Coward's Crystal
  373,   #Indictment
  374,   #Souvenir of Reprisal
- 385    #Dried Finger
+ 385,   #Dried Finger
+ 510,   #510-514: carvings
+ 511,
+ 512,
+ 513,
+ 514
 ]
 
 ONLINE_USE_RINGS = [
