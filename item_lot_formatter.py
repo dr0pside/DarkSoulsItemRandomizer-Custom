@@ -12051,6 +12051,7 @@ CATEGORY_TYPE = {
 }
 
 LOCATION_DESCRIPTIONS = {
+ 1000: "Knight Solaire gift in Undead Burg"
  1010: "Seigmeyer of Catarina gift in Anor Londo",
  1040: "Seigmeyer of Catarina gift in Blighttown",
  1050: "Seigmeyer of Catarina gift in Lost Izalith if questline failed (and drop #1)",
