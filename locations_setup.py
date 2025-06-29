@@ -113,7 +113,7 @@ LOCATIONS = {
  0: Location(LOC_DIF.IGNORE, AREA.NONE, 1),
  1: Location(LOC_DIF.IGNORE, AREA.NONE, 1),
  2: Location(LOC_DIF.IGNORE, AREA.NONE, 1),
- 1000: Location(LOC_DIF.LEAVE_ALONE, AREA.MOVING_NPC, 1, is_transient = True, linked_locations = [6000]),
+ 1000: Location(LOC_DIF.EASY, AREA.MOVING_NPC, 1, is_transient = True, linked_locations = [6000]),
  1010: Location(LOC_DIF.MEDIUM, AREA.ANOR_LONDO, 9, is_transient = True),
  1020: Location(LOC_DIF.IGNORE, AREA.NONE, 1),
  1030: Location(LOC_DIF.IGNORE, AREA.NONE, 1),
