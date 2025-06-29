@@ -12073,6 +12073,7 @@ LOCATION_DESCRIPTIONS = {
  1290: "Eignyi gift after infected with the Egg Parasite, if INT is 11 or more",
  1300: "Quelana of Izalith gift after defeating Bed of Chaos (and drop)",
  1310: "Covenant reward for joining the Chaos Servants (may not be given if player has Pyromancy: Great Chaos Fireball)",
+ 1330: "Reward for reaching rank 2 (give 30 humanities) in the Chaos Servants covenant",
  1350: "Covenant reward for joining the Princess's Guard (may not be given if player has Ring of the Sun Princess)",
  1360: "Covenant reward for joining the Blades of the Darkmoon (may not be given if player has Blue Eye Orb)",
  1380: "Covenant reward for joining the Darkwraiths (may not be given if player has Dark Hand)",
